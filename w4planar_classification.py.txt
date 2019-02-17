@@ -174,7 +174,7 @@ def backward_propagation(parameters, cache, X, Y):
 
 # GRADED FUNCTION: update_parameters
 
-def update_parameters(parameters, grads, learning_rate = 0.05):
+def update_parameters(parameters, grads, learning_rate = 1.20):
     """
     Updates parameters using the gradient descent update rule given above
     
